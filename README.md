@@ -19,7 +19,6 @@ This repository contains a comprehensive e-commerce sales dataset and analytics 
 
 ## File Structure
 
-### `New_Dashboard.xlsx`
 
 | Sheet Name               | Description                                      |
 |--------------------------|--------------------------------------------------|
@@ -57,11 +56,6 @@ This repository contains a comprehensive e-commerce sales dataset and analytics 
 - Kolkata (West Bengal)  
 - Lucknow & Noida (Uttar Pradesh)  
 - Mumbai & Pune (Maharashtra)  
-
-## How to Use
-1. Download the `New_Dashboard.xlsx` file.
-2. Open it in **Microsoft Excel**, **Google Sheets**, or **Power BI**.
-3. Use the pre-built summary sheets or create your own Pivot Tables / Dashboards from the `Master_Data` sheet.
 
 ## Recommended Analysis Ideas
 - Monthly / Yearly sales trends
